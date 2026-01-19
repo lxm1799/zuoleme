@@ -2,6 +2,28 @@
 
 做了么APP，支持android，ios，windows等。快下载体验吧
 
+## ?? 应用截图
+
+### 主界面
+<table>
+  <tr>
+    <td><img src="pic/正常.png" width="200"/><br/><center>主页 - 正常状态</center></td>
+    <td><img src="pic/普通.png" width="200"/><br/><center>主页 - 普通状态</center></td>
+    <td><img src="pic/高频.png" width="200"/><br/><center>主页 - 高频状态</center></td>
+    <td><img src="pic/灰飞烟灭.png" width="200"/><br/><center>主页 - 过度状态</center></td>
+  </tr>
+</table>
+
+### 功能页面
+<table>
+  <tr>
+    <td><img src="pic/统计.png" width="200"/><br/><center>统计页面</center></td>
+    <td><img src="pic/日历.png" width="200"/><br/><center>日历视图</center></td>
+    <td><img src="pic/设置.png" width="200"/><br/><center>设置页面</center></td>
+    <td><img src="pic/图标.png.png" width="200"/><br/><center>应用图标</center></td>
+  </tr>
+</table>
+
 ## 功能特点
 
 ### 第一版功能
