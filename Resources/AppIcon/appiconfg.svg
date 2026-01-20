@@ -11,12 +11,4 @@
         text-anchor="middle"
         letter-spacing="10">做了么</text>
   
-  <!-- 装饰性对勾元素 -->
-  <circle cx="820" cy="280" r="80" fill="rgba(255,255,255,0.2)"/>
-  <path d="M 780 280 L 810 310 L 860 250" 
-        stroke="white" 
-        stroke-width="18" 
-        fill="none" 
-        stroke-linecap="round" 
-        stroke-linejoin="round"/>
 </svg>
